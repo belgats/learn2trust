@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### VAE Update Analysis
- 
+
 <p align="center">
   <img src="./tests/figures/update_reconstruction.png" alt="VAE Update Analysis" width="800"/>
   <br>
