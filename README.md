@@ -50,9 +50,9 @@ pip install -r requirements.txt
 ## Usage
 
 ### VAE Update Analysis
-![VAE Update Analysis](tests/figures/update_reconstruction.png)
+ 
 <p align="center">
-  <img src="tests/figures/update_reconstruction.png" alt="VAE Update Analysis" width="800"/>
+  <img src="./tests/figures/update_reconstruction.png" alt="VAE Update Analysis" width="800"/>
   <br>
   <em>Figure 1: Visualization of VAE reconstruction performance on model updates</em>
 </p>
